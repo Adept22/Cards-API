@@ -6,7 +6,7 @@ JavaScript API - реализующий сортировку карточек п
 
 Добавить cards.js к проекту:
 ```html
-  <script src="cards.js"></script>
+  <script src="cards.min.js"></script>
 ```
 ## Документация
 
