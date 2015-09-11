@@ -171,7 +171,7 @@ var cards_array = Cards.XMLToArray(xml);
 ```
 ##### Пример вызова метода:
 ```js
-var json = '[{...},{...},...]';
+var json = '[{"type": "train",...},{...},...]';
 var cards_array = Cards.JSONToArray(json);
 ```
 
