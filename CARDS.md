@@ -210,7 +210,7 @@ var sorted_array = Cards.GetSorted(nonsorted_array);
 var result = Cards.Result(sorted_array); // Данный метод может принять не отсортированный массив и вернуть не отсортированный результат.
 console.log(result);
 ```
-Значение переменной ```result``` после выполнения метода с остортированным массивом и форматом XML из ```Cards.XMLToArray()```:
+Значение переменной ```result``` после выполнения метода с остортированным массивом и форматом XML из примера ```Cards.XMLToArray()```:
 ```
 Type: train
 Flight number, or Route: 78A
