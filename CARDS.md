@@ -80,7 +80,7 @@ JavaScript API - реализующий сортировку карточек п
 #### Cards.XMLToArray
 
 Данный метод принимает на вход текст xml и возвращает массив объектов.</br>
-#####Пример xml:
+##### Пример xml:
 ```xml
 <cards>
 	<card>
@@ -130,7 +130,7 @@ var cards_array = Cards.XMLToArray(xml);
 #### Cards.JSONToArray
 
 Данный метод принимает на вход текст JSON и возвращает массив объектов.</br>
-#####Пример JSON:
+##### Пример JSON:
 ```json
 [{
 	"type": "train",
